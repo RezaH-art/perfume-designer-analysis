@@ -43,7 +43,7 @@ Each chart represents a brand’s olfactory fingerprint based on dominant fragra
 
 ### Dior — Bold Citrus & Woody
 
-![Dior Signature Accords](images/dior_radar.png)
+![Dior Signature Scent Radar](images/dior_radar.png)
 
 **Insight:**  
 Dior’s strong citrus dominance combined with woody and floral notes creates a bold, confident, and high-impact scent profile that reinforces its premium and expressive brand positioning.
@@ -84,8 +84,14 @@ git clone https://github.com/RezaH-art/perfume-designer-analysis.git
 cd signature-scent-analysis
 jupyter notebook
 ```
-👤 Author
+## 👤 Author
 
-Reza Habibulloh
-Data Analyst | Data Engineer
-Portfolio project focused on data-driven insights in lifestyle and luxury branding
+**Reza Habibulloh**  
+📍 Data Analyst & Data Engineer  
+📌 Portfolio project focused on data-driven insights in lifestyle and luxury branding
+
+📬 **Contact & Connect**  
+🔗 LinkedIn: https://www.linkedin.com/in/rezahabibulloh/  
+📧 Email: reza.habibulloh@example.com  
+💻 GitHub: https://github.com/RezaH-art  
+🌐 Portfolio: https://rezah-art.github.io
