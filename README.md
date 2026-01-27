@@ -91,7 +91,6 @@ jupyter notebook
 📌 Portfolio project focused on data-driven insights in lifestyle and luxury branding
 
 📬 **Contact & Connect**  
-🔗 LinkedIn: https://www.linkedin.com/in/rezahabibulloh/  
-📧 Email: reza.habibulloh@example.com  
+🔗 LinkedIn: [https://www.linkedin.com/in/reza-habibulloh/  ](https://www.linkedin.com/in/reza-habibulloh/)<br>
+📧 Email: rezadoenk28@gmail.com  
 💻 GitHub: https://github.com/RezaH-art  
-🌐 Portfolio: https://rezah-art.github.io
