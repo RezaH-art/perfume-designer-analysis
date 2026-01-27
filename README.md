@@ -84,4 +84,8 @@ git clone https://github.com/RezaH-art/perfume-designer-analysis.git
 cd signature-scent-analysis
 jupyter notebook
 ```
+👤 Author
 
+Reza Habibulloh
+Data Analyst | Data Engineer
+Portfolio project focused on data-driven insights in lifestyle and luxury branding
