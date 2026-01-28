@@ -1,8 +1,16 @@
-# Signature Scent Analysis — Designer Fragrances
-### 📌 Project Overview
+![Perfume Designer Analysis](assets/banner.png)
 
-This project analyzes signature scent profiles of major designer fragrance brands using data analytics and visualization. By examining dominant fragrance accords across top, middle, and base notes, the project uncovers how brands express identity, positioning, and target impressions through scent composition.
-This analysis bridges data analysis and business insight, demonstrating how fragrance data can be translated into branding and market strategy.
+# Signature Scent Analysis — Designer Fragrances
+
+### Project Overview
+
+This project analyzes signature scent profiles of major designer fragrance brands
+using data analytics and visualization. By examining dominant fragrance accords
+across top, middle, and base notes, the analysis reveals how brands express
+identity, positioning, and target impressions through scent composition.
+
+This project bridges data analysis and business insight by translating fragrance
+data into brand identity and market strategy.
 
 ### 🎯 Project Objectives
 - Identify dominant fragrance accords per brand
